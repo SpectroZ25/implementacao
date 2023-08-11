@@ -1,0 +1,17 @@
+@import url(style/header.css);
+
+:root {
+
+--cor-de-fundo:#994984;
+--cor-de-cabecalho: #FFFFFF;
+
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    margin: 0;
+}
+
+h1 {
+    font-weight: normal;
+}
